@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<h3>Full Stack Web Developer</h3>
-
-
 A full stack web developer with backend orientation, I have a passion for learning new things and always open for tough challenges
 <br/>
 
