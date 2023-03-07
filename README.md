@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+<hr/>
+A full stack web developer with backend orientation, I have a passion for learning new things and always open for tough challenges
+<br/>
+
+<h3>Technologies :star:</h3>
+<hr/>
+
+<p>Thanks to SoyHenry and my desire to learn, I currently know :</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,html,css,vscode,react,redux,git,express,postgres,nodejs,nextjs,mongodb,prisma"/>
+</p>
+
 Goal oriented and team work believer. Currently based in Argentina, but have lived also in the USA and Israel. Have working experience with multi-cultural teams (Anglo-Saxon, Latin-American & Asian).
 
 After 20+ years fulfilling leading roles in the TV industry, jumped into a new adventure chasing left aside dreams and aspirations: software development.
@@ -12,6 +25,14 @@ I have just finished the bootcamp as a Full-Stack Developer, but it´s clear tha
 I have C2 level of English as a second language.
 
 BTW, I´m a cyclist and triathlete too. Taking the hardness and commitment of endurance sports to every step in my life.
+
+<h3>Contact :mega:</h3>
+<hr/>
+Contact me through:
+<br/>
+<br/>
+<a href="https://www.linkedin.com/in/joseszczupak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="mailto:contacto2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
 <!--
