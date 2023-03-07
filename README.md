@@ -7,6 +7,7 @@ I started a bootcamp of Full Stack Developer, which I completed with 100% approv
 
 I have just finished the bootcamp as a Full-Stack Developer, but it´s clear that software development is a lifelong self-learning journey, and I am willing to learn new technologies as required in work environments.
 I have C2 level of English as a second language.
+
 BTW, I´m a cyclist and triathlete too. Taking the hardness and commitment of endurance sports to every step in my life.
 
 
