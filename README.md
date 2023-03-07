@@ -27,9 +27,9 @@ I have C2 level of English as a second language.
 BTW, I´m a cyclist and triathlete too. Taking the hardness and commitment of endurance sports to every step in my life.
 
 <hr/>
+<br/>
 
 <h3>Contact :mega:</h3>
-<br/>
 <br/>
 <a href="https://www.linkedin.com/in/joseszczupak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="mailto:contacto2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
