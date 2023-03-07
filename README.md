@@ -28,7 +28,6 @@ BTW, I´m a cyclist and triathlete too. Taking the hardness and commitment of en
 
 <hr/>
 <br/>
-
 <h3>Contact :mega:</h3>
 <br/>
 <a href="https://www.linkedin.com/in/joseszczupak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
