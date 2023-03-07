@@ -1,17 +1,20 @@
 ### Hi there 👋
 
-<hr/>
+<h3>Full Stack Web Developer</h3>
+
+
 A full stack web developer with backend orientation, I have a passion for learning new things and always open for tough challenges
 <br/>
 
 <h3>Technologies :star:</h3>
-<hr/>
 
 <p>Thanks to SoyHenry and my desire to learn, I currently know :</p>
 
 <p>
 <img src="https://skillicons.dev/icons?i=js,html,css,vscode,react,redux,git,express,postgres,nodejs,nextjs,mongodb,prisma"/>
 </p>
+
+<hr/>
 
 Goal oriented and team work believer. Currently based in Argentina, but have lived also in the USA and Israel. Have working experience with multi-cultural teams (Anglo-Saxon, Latin-American & Asian).
 
