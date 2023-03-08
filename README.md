@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-A full stack web developer with backend orientation, I have a passion for learning new things and always open for tough challenges
+Full stack web developer passionate for learning new things and always open for tough challenges
 <br/>
 
 <h3>Technologies :star:</h3>
