@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Full stack web developer passionate for learning new things and always open for tough challenges
+A full stack web developer. I strive every day to be the best possible version of myself, for this I have developed the capacity for resilience and autonomy that are so necessary in technology and in life in general. 
 <br/>
 
 <h3>Technologies :star:</h3>
